@@ -1,0 +1,21 @@
+# exclude everything
+data/*
+
+# exception to the rule
+!data/.gitkeep 
+
+# exclude everything
+saved_logs/*
+
+# exception to the rule
+!saved_logs/.gitkeep 
+
+# exclude everything
+__pycache__/*
+
+# exclude everything
+process_results/__pycache__/*
+# exclude everything
+train_models/__pycache__/*
+
+process_results/*.pdf

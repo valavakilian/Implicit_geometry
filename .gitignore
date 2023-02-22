@@ -18,4 +18,4 @@ process_results/__pycache__/*
 # exclude everything
 train_models/__pycache__/*
 
-process_results/*.pdf
+*.pdf
